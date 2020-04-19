@@ -49,3 +49,9 @@ MonthlyCharges: The amount charged to the customer monthly
 TotalCharges: The total amount charged to the customer
 
 Churn: Whether the customer churned or not (Yes or No)
+
+
+
+# Conclusion
+
+From all the models that we have built, the model with highest accuracy is the Logistic Regression and seems to be the most suitable model to predict the customer churn
